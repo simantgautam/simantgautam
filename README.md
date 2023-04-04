@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Simant Gautam
+- 🌐 I am a Full Stack Web Developer. I know HTML, CSS, Javascript, Node.js, expressJs, MongoDB, Java, and Data Structure And Algorithm.
+- 🌱 I’m currently learning Something New.
 
 <!--
 **simantgautam/simantgautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
