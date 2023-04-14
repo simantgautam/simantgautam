@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://simantgautam.io)
+[![MasterHead]( https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://github.com/simantgautam)
 <h1 align="center">Hi 👋, I'm Simant Gautam</h1>
 <h3 align="center">A passionate MERN developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
@@ -11,14 +11,14 @@
 
 - 🌱 I’m currently learning **MongoDb,Mongoose**
 
-- 👨‍💻 All of my projects are available at [https://simant-gautam-portfolio.vercel.app/](My_Portfolio)
+- 👨‍💻 All of my projects are available at [My_Portfolio ](https://simant-gautam-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
 
 - 📫 How to reach me **gautam8178838469@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O9QgqcojvQfUvbBNB34k2iYEtv06iKOW/view?usp=sharing](My_Resume)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1O9QgqcojvQfUvbBNB34k2iYEtv06iKOW/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
