@@ -6,21 +6,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simantgautam&label=Profile%20views&color=0e75b6&style=flat" alt="simantgautam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simantgautam" alt="simantgautam" /></a> </p>
 
 - 🔭 I’m currently working on **Swiggy-Clone Backend**
 
 - 🌱 I’m currently learning **MongoDb,Mongoose**
 
-- 👨‍💻 All of my projects are available at [https://simant-gautam-portfolio.vercel.app/](https://simant-gautam-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://simant-gautam-portfolio.vercel.app/](My_Portfolio)
 
 - 💬 Ask me about **MERN**
 
+
 - 📫 How to reach me **gautam8178838469@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O9QgqcojvQfUvbBNB34k2iYEtv06iKOW/view?usp=sharing](https://drive.google.com/file/d/1O9QgqcojvQfUvbBNB34k2iYEtv06iKOW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1O9QgqcojvQfUvbBNB34k2iYEtv06iKOW/view?usp=sharing](My_Resume)
 
 - ⚡ Fun fact **I think I am Funny**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simantgautam" alt="simantgautam" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
