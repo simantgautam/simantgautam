@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **gautam8178838469@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1O9QgqcojvQfUvbBNB34k2iYEtv06iKOW/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/14zvKr4wsfYm57YO-VvhIDuvU6gLqnt6k/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
